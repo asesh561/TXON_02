@@ -1,2 +1,2 @@
-# TXON_02
+# Week4_LGM
 Simple calculator
